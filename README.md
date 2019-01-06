@@ -1,4 +1,4 @@
-100 shell script examples
+100 Awesome shell script examples
 ====================================
 
 This is archive of shell scripts that i found on the interenet long time ago. I'm not the author. Original website is located here: http://intuitive.com/wicked/wicked-cool-shell-script-library.shtml (author wrote a [book](http://intuitive.com/wicked/index.shtml)).
